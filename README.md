@@ -10,16 +10,15 @@ Requirements:
 
     Python 3
 
-    Pillow
+    Pillow (this is a Python library for image processing and editing)
 
-Installation
-powershell:
-python -m pip install -r requirements.txt
+Installation "Pillow" as pre-requisite within powershell:
+    python -m pip install -r requirements.txt
 
 
 Use:
-1. Start the script.
-2. Select a panoramic photo (must already have a ratio of 9x4)
-3. Click "Split".
+    1. Start the script.
+    2. Select a panoramic photo (must already have a ratio of 9x4)
+    3. Click "Split".
 
 The three images will be saved in the "Export" sub-folder.
