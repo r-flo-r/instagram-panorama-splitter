@@ -15,3 +15,11 @@ Requirements:
 Installation
 powershell:
 python -m pip install -r requirements.txt
+
+
+Use:
+1. Start the script.
+2. Select a panoramic photo (must already have a ratio of 9x4)
+3. Click "Split".
+
+The three images will be saved in the "Export" sub-folder.
